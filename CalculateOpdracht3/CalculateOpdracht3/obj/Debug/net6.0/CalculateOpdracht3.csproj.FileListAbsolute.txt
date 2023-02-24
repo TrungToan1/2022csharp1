@@ -1,0 +1,15 @@
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\bin\Debug\net6.0\CalculateOpdracht3.exe
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\bin\Debug\net6.0\CalculateOpdracht3.deps.json
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\bin\Debug\net6.0\CalculateOpdracht3.runtimeconfig.json
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\bin\Debug\net6.0\CalculateOpdracht3.dll
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\bin\Debug\net6.0\CalculateOpdracht3.pdb
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\CalculateOpdracht3.csproj.AssemblyReference.cache
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\CalculateOpdracht3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\CalculateOpdracht3.AssemblyInfoInputs.cache
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\CalculateOpdracht3.AssemblyInfo.cs
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\CalculateOpdracht3.csproj.CoreCompileInputs.cache
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\CalculateOpdracht3.dll
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\refint\CalculateOpdracht3.dll
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\CalculateOpdracht3.pdb
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\CalculateOpdracht3.genruntimeconfig.cache
+C:\Users\Shado\UnityGame\CalculateOpdracht3\CalculateOpdracht3\obj\Debug\net6.0\ref\CalculateOpdracht3.dll

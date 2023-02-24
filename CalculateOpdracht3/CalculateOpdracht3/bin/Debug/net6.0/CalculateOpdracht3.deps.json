@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculateOpdracht3/1.0.0": {
+        "runtime": {
+          "CalculateOpdracht3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculateOpdracht3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
